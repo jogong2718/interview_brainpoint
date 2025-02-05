@@ -1,1 +1,1 @@
-Just make a venv and install the dependencies in the requirements file. Also download the vit_l mode from [here](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file) and put it in the root directory
+Just make a venv and install the dependencies in the requirements file. Also download the vit_l model from [here](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file) and put it in the root directory
